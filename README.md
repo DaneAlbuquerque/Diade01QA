@@ -22,7 +22,27 @@ Este projeto apresenta a documentação completa de um processo de QA utilizando
 ## 📂 Estrutura
 
 ```
-aguardando
+📁 Diade01QA/
+├── 📁 docs/
+│   ├── 📄 01_fluxo_trabalho.md
+│   ├── 📄 02_user_stories.md
+│   ├── 📄 03_mindmap.md
+│   ├── 📄 04_casos_step.md
+│   └── 📄 05_casos_bdd.md
+├── 📁 images/
+│   └── 📄 mindmap_login.png
+├── 📁 jira/
+│   └── 📁 evidencias_jira/
+│       ├── 📄 01_ticket_novo.png
+│       ├── 📄 02_ticket_em_analise.png
+│       ├── 📄 03_ticket_em_correcao.png
+│       ├── 📄 04_ticket_corrigido.png
+│       ├── 📄 05_ticket_em_reteste.png
+│       ├── 📄 06_ticket_reaberto.png
+│       ├── 📄 07_ticket_fechado.png
+│       ├── 📄 08_historico_transicoes.png
+│       └── 📄 09_workflow_completo.png
+└── 📄 README.md
 ```
 
 ## 👤 Autor
